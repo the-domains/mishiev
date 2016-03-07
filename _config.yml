@@ -1,6 +1,6 @@
 name: Mishiev
 favicon: null
-layout_spectrum: 0.74917
+layout_spectrum: 1
 typography_spectrum: 0.75188
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#1a5462'
     - '#18394c'
     - '#90aea6'
-  brandStrength: 0.5
+  brandStrength: 0.5625
   lightness: 0.375
-  saturation: 0.5
+  saturation: 0.25
   rhythmicContrast: 0
 purpose: []
